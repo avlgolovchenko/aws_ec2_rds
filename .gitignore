@@ -1,0 +1,12 @@
+terraform.tfvars
+variables.tf
+**/.terraform/*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+script.py.tmpl
